@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @FaizaFarooq23
-- 👀 I’m interested in the website desiging as well as graphic designing
-- 👀 I like coding till the time i dont get any errors
-- 🌱 I’m currently learning database setup
-- 💞️ I’m looking to collaborate on multiple projects
+- 😎 I understand browsers, not bookshelves
+- 🤙🏻 Mid Senior Level Web Developer
+- 👀 I like coding till the time I don't get any errors
+- 🌱 I’m currently learning web3.0
+- 💞️ I'm looking to collaborate on multiple projects
 
 
 <!---
