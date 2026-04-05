@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FaizaFarooq23
 - 😎 I understand browsers, not bookshelves
-- 🤙🏻 Senior Level Web Developer
+- 🤙🏻 Mid-Senior Level Web Developer
 - 💞️ I'm looking to collaborate on multiple projects
 
 
