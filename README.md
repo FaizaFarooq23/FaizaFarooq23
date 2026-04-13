@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FaizaFarooq23
+- 👋 Hi, I’m @FaizaFarooq-23
 - 😎 I understand browsers, not bookshelves
 - 🤙🏻 Mid-Senior Level Web Developer
 - 💞️ I'm looking to collaborate on multiple projects
